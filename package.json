@@ -1,0 +1,10 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Benjamin Tse <benjamin.l.tse@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.13.2"
+  }
+}

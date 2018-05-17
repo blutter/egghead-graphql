@@ -1,1 +1,1 @@
-graphql
+Code for https://egghead.io/lessons/javascript-create-a-graphql-schema
