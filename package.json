@@ -5,6 +5,8 @@
   "author": "Benjamin Tse <benjamin.l.tse@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
     "graphql": "^0.13.2"
   }
 }
